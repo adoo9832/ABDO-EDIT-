@@ -1,0 +1,7 @@
+{
+  "name": "Ohayo BX Portfolio",
+  "description": "A high-end, cinematic portfolio for a professional video editor specializing in short-form and long-form content with a focus on retention and production quality.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
